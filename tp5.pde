@@ -2,7 +2,7 @@
 Comisión 1.
  Alumna: Anastasio Melgar Juana
  Legajo: 88099/6
- Link a video explicativo:
+ Link a video explicativo: https://youtu.be/LeZcLsNRxYU
  */
 
 
